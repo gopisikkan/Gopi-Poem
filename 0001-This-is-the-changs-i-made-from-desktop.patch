@@ -1,0 +1,32 @@
+From 770478db8bd08f04c49e89ea60b6a542a3118dfd Mon Sep 17 00:00:00 2001
+From: Gopinath Sikkan <gopinathsikkan@M800-L-133.local>
+Date: Fri, 24 Mar 2017 22:32:15 +0800
+Subject: [PATCH] This is the changs i made from desktop
+
+JIRA : N/A
+---
+ RSGfile.txt | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+diff --git a/RSGfile.txt b/RSGfile.txt
+index 0b9847a..a1db158 100644
+--- a/RSGfile.txt
++++ b/RSGfile.txt
+@@ -6,6 +6,14 @@ Music
+ NCA
+ Technology
+ 
++Test 2222222222
++Test 2222222222
++Test 2222222222
++Test 2222222222
++Test 2222222222
++Test 2222222222
++
++Test 1111111111
+ Test 1111111111
+ Test 1111111111
+ Test 1111111111
+-- 
+2.7.1
+

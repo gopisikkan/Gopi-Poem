@@ -1,0 +1,23 @@
+From e59a546361b371cf1ebf51324e8cc7b8babb56bd Mon Sep 17 00:00:00 2001
+From: gopisikkan <gopimca.iphone@gmail.com>
+Date: Fri, 24 Mar 2017 21:52:09 +0800
+Subject: [PATCH] i am MCA
+
+---
+ RSGfile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/RSGfile.txt b/RSGfile.txt
+index ad4b768..bd2ae54 100644
+--- a/RSGfile.txt
++++ b/RSGfile.txt
+@@ -1,5 +1,6 @@
+ Contents 
+ Sports
++MCA
+ Music
+ NCA
+ Technology
+-- 
+2.7.1
+
